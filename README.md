@@ -1,4 +1,4 @@
-# USAL-SistemasOperativos-II
+# USAL-SistemasOperativos-I
 # Soluciones Prácticas de Sistemas Operativos I (2025-26)
 
 Este repositorio contiene las implementaciones de las dos prácticas evaluables orientadas a la gestión de procesos en C y scripting avanzado en Bash.
